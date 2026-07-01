@@ -4,7 +4,7 @@
 
 ### Shenzhen University student · Builder · Lifelong learner
 
-I enjoy turning ideas into reliable software, learning by shipping, and keeping my GitHub profile clean, fast, and readable.
+I enjoy turning ideas into reliable software, learning by shipping.
 
 <p>
   <a href="https://github.com/thsingsen"><img src="https://img.shields.io/badge/GitHub-thsingsen-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -44,9 +44,7 @@ I enjoy turning ideas into reliable software, learning by shipping, and keeping 
 ## Tech interests
 
 <p>
-  <img src="https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=111" alt="Linux" />
 </p>
@@ -56,9 +54,3 @@ I enjoy turning ideas into reliable software, learning by shipping, and keeping 
 ```text
 learn consistently  ->  build thoughtfully  ->  share openly
 ```
-
-<div align="center">
-
-Thanks for visiting — feel free to explore my repositories!
-
-</div>
